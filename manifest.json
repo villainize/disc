@@ -1,0 +1,9 @@
+{
+  "name": "Hu",
+  "description": "Locally hides selected users from Discord UI.",
+  "author": "villainize",
+  "version": "1.0.0",
+  "license": "MIT",
+  "update": "https://raw.githubusercontent.com/villainize/disc/main/manifest.json",
+  "source": "https://raw.githubusercontent.com/villainize/disc/main/HrU.js"
+}
